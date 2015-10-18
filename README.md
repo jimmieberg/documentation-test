@@ -1,3 +1,3 @@
 # documentation-test
 
-Testing a way to store documentation as mark-down and including them to bundle using Webpack
+Testing a way to store documentation as mark-down and including them in bundle using Webpack
